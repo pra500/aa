@@ -13,7 +13,7 @@ public class New1Test {
 	 WebDriver driver;
 	 
 	 
-  @Test(priority = 0)
+  @Test(priority = 1)
   public void fTest() {	  	   
 	    
 	  Assert.assertTrue(true);
