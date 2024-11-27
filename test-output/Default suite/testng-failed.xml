@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pac1.NewTest">
+      <class name="pac1.New1Test">
         <methods>
-          <include name="gjjTest"/>
+          <include name="gllllyTest"/>
           <include name="gllllTest"/>
+          <include name="gllllyyTest"/>
         </methods>
-      </class> <!-- pac1.NewTest -->
+      </class> <!-- pac1.New1Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
